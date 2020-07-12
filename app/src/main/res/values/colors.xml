@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22cbee</color>
+    <color name="colorPrimaryOverlay">#808a8a8a</color>
+    <color name="colorPrimaryDark">#22cbee</color>
+    <color name="colorAccent">#FF4081</color>
+   st <color name="colorBranco">#fff</color>
+    <color name="colorFundo">#b1ed71</color>
+    <color name="colorBlue">#4bd4f0</color>
+
+</resources>
